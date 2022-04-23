@@ -1,19 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body style="color: darkseagreen;">
-    <div>
+
+<body style="margin: 0px;">
+    <div class="navbar" style="background-color: black; padding: 10px;">
         <nav>
-            <ul>
-                <a href="https://github.com/matiassingers/awesome-readme" style="color: black;">Home</a>
+            <ul style="padding-left: 80%;">
+                <a href="index.html" style="color: white; text-decoration: none; ">Home</a>
+                <a href="index.html" style="color: white; padding-left: 10px; text-decoration: none; ">About</a>
+                <button style="color: black; margin-left: 10px; padding-left: 10px; padding-right: 10px;">Dark</button>
             </ul>
         </nav>
     </div>
-    
+    <aside class="left-data"
+        style="width : 20%;background-color: lightgray; float:left; height: 590px; text-align: center; color: black; font-size: 20px;">
+        <div class = "Intro">
+            <div class="author-image" style="background-image: url(image/author_image.jpg); height: 10%; width: 10%;"></div>
+            <h1>Vipul Agrawal</h1>
+            <span>Full Stack Developer</span>
+        </div>
+        <div class = "vertical-navbar">
+            <ul>
+                <li class="active"><a href="#" data-nav-section="home">Home</a></li>
+                <li><a href="#" data-nav-section="about">About</a></li>
+                <li><a href="#" data-nav-section="services">Services</a></li>
+                <li><a href="#" data-nav-section="skills">Skills</a></li>
+                <li><a href="#" data-nav-section="education">Education</a></li>
+                <li><a href="#" data-nav-section="experience">Experience</a></li>
+                <li><a href="#" data-nav-section="work">Work</a></li>
+                <li><a href="#" data-nav-section="blog">Blog</a></li>
+                <li><a href="#" data-nav-section="contact">Contact</a></li>
+            </ul>
+        </div>
+    </aside>
+    <div style="padding-right: 10px;">
+    </div>
 </body>
 </html>
