@@ -19,7 +19,7 @@ b {
 
 .dark-light-mode {
     color: black;
-    margin-left: 90%;
+    margin-left: 85%;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -42,9 +42,14 @@ aside {
 #author-image {
     padding-top: 5%;
     border-radius: 50%;
-    height: 60%;
-    width: 60%;
+    height: 50%;
+    width: 50%;
     padding-left: 10%;
+}
+
+#github_logo {
+    height: 15%;
+    width: 15%;
 }
 
 #Intro {
@@ -66,10 +71,9 @@ a {
     padding-left: 30%;
 }
 
-.feedBack_Form {
-    padding: 50px;
+#feedBack_Form {
+    padding-bottom: 10%;
 }
-
 
 footer {
     font-size: medium;
