@@ -2,7 +2,7 @@
 
  The Portfolio website contains Vipul Agrawal(my) portfolio.
  
- The project helps to showcase my Resume, projects and some of my blog and also connect all my social media account in a single place.
+ The project helps to showcase my Resume, projects and connected all my social media account in a single place.
  The page also contain the feedback form which will help me to connect and get any feedback from any client or employer who wants to reach out to me personally.
  
 # Tech stack:
