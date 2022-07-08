@@ -13,8 +13,7 @@
 
   1. Auto Scroll from navigation to selected page content,
   2. Dark theme & light theme
-  3. Feedback form.
-  
+
 # Hosted :
   
   The website is hosted in Neftify account connected to github account.
